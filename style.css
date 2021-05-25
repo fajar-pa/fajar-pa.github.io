@@ -1,0 +1,23 @@
+body {
+    background-color: skyblue;
+}
+.pesan {
+    margin-top: 50%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 100px;
+}
+
+.pesan:hover {
+    color: skyblue;
+    cursor: pointer;
+}
+
+.pesan2 {
+    color: skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pesan2:hover {
+    color: white;
+}
